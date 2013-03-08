@@ -1,1 +1,6 @@
-baseurl: /jekyll_demo
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://pmonkey.github.com/cn
+author: 谢益辉
+pygments: true
+
