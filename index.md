@@ -1,5 +1,5 @@
 ---
-Mount Huaguo
+title: Mount Huaguo
 layout: page
 ---
 
