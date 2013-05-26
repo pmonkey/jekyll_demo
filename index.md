@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+Mount Huaguo
 layout: page
 ---
 
