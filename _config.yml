@@ -1,5 +1,5 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: pmonkey.info
+baseurl: /
 author: pmonkey
 pygments: true
