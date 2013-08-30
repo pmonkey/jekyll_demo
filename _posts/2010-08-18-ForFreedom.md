@@ -3,7 +3,7 @@ layout: post
 title: 再解人间不自由
 ---
 
-!()[]
+!()[http://i.imgur.com/aYJMPKg.jpg]
 
 我辈豪情可曾休？绿营连天斗伏秋
 
