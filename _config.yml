@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://pmonkey.github.io/jekyll_demo
+url: /
 author: pmonkey
 pygments: true
 
