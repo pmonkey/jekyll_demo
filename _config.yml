@@ -1,5 +1,5 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-baseurl: /
+baseurl: /jekyll_demo
 author: pmonkey
 pygments: true
